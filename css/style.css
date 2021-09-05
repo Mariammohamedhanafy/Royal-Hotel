@@ -1,0 +1,18 @@
+.navbar{
+    border: solid rgb(38, 104, 129);  ;
+}
+header{
+    min-height: 100vh;
+    background-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.7) , rgba(0,0,0,0.7))
+  ,  url(../images/header.jpg); 
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+
+}
+.footer{
+    border: solid 5px #333;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
